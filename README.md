@@ -1,2 +1,2 @@
 # Kuroi-Monogatari
-RPG Fight
+Action-Adventure game
